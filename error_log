@@ -1,0 +1,16 @@
+[15-Jun-2018 19:11:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'clickgara_user'@'localhost' (using password: YES) in /home/clickgar/public_html/db/conn.php on line 2
+[15-Jun-2018 19:11:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/clickgar/public_html/index_back.php on line 31
+[15-Jun-2018 19:11:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/clickgar/public_html/index_back.php on line 34
+[15-Jun-2018 19:11:23 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/clickgar/public_html/index_back.php on line 38
+[15-Jun-2018 19:12:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'clickgara_user'@'localhost' (using password: YES) in /home/clickgar/public_html/db/conn.php on line 2
+[15-Jun-2018 19:12:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/clickgar/public_html/index_back.php on line 31
+[15-Jun-2018 19:12:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/clickgar/public_html/index_back.php on line 34
+[15-Jun-2018 19:12:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/clickgar/public_html/index_back.php on line 38
+[15-Jun-2018 19:12:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'clickgara_user'@'localhost' (using password: YES) in /home/clickgar/public_html/db/conn.php on line 2
+[15-Jun-2018 19:12:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/clickgar/public_html/index_back.php on line 31
+[15-Jun-2018 19:12:43 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/clickgar/public_html/index_back.php on line 34
+[15-Jun-2018 19:12:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/clickgar/public_html/index_back.php on line 38
+[15-Jun-2018 19:12:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'clickgara_user'@'localhost' (using password: YES) in /home/clickgar/public_html/db/conn.php on line 2
+[15-Jun-2018 19:12:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/clickgar/public_html/index_back.php on line 31
+[15-Jun-2018 19:12:49 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/clickgar/public_html/index_back.php on line 34
+[15-Jun-2018 19:12:49 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/clickgar/public_html/index_back.php on line 38
